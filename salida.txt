@@ -1,0 +1,24 @@
+LICENSE
+README.md
+acceso.txt
+archivo raro.txt
+backup.tar
+clase7.txt
+copia.txt
+ejemplo_debug.py
+final
+final1
+final11
+final2
+final22
+final222
+final2222
+mi_primer_script.sh
+papá
+salida.txt
+test
+test+#
+test.txt
+test123
+testeando
+testeo
